@@ -2,13 +2,10 @@
 
 A simple Python script that merges any video file with any audio file using ffmpeg — no manual ffmpeg commands needed.
 
-## Example Files
- 
-The sample video/audio files used during testing are too large to include in this GitHub repo. You can access them here the video and audio named file of which the output file is merge:
- 
-🔗 **Google Drive:** [[Google Drive link ](https://drive.google.com/drive/folders/1bzvtio_HpYXaywycqFY-moynAdln9nu8?usp=drive_link)]
- 
-> Note: GitHub has a 100MB file size limit (25MB via the web upload UI), so large media files are intentionally excluded and hosted externally instead.
+Live Demo
+
+🌐 Try it online (no installation needed): https://devesh12-audio-video-merge.hf.space
+
 
 ## Features
 
